@@ -25,7 +25,7 @@ Envithon-PlantDisease-main/
 │   ├── static/                  # CSS, JS, and images
 │   └── templates/               # HTML templates
 │
-└── README.md (this file)
+└── README.md
 ```
 
 ---
@@ -41,7 +41,7 @@ Envithon-PlantDisease-main/
 ## ⚙️ Installation & Setup
 1. Clone the repository or extract the zip:
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/LILTIMOTHY64/Envithon-PlantDisease.git
    cd Envithon-PlantDisease-main
    ```
 
